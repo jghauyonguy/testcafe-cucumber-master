@@ -10,7 +10,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/rquellh/testcafe-cucumber"
+    "url": "https://github.com/jghauyonguy/testcafe-cucumber-master.git"
   },
   "scripts": {
     "debug": "node --inspect=1337 --debug-brk --nolazy node_modules/cucumber/bin/cucumber-js --tags @debug --format json:./reports/report.json",
